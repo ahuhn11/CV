@@ -11,7 +11,7 @@
 
 #Name{
 
-  font-family: 'OCR A Std', monospace;
+  font-family: 'OCR A Std';
 
 }
 
@@ -28,8 +28,8 @@ hr{
 img{
 
   float: center;
-  width: 60px;
-  height: 60px;
+  width: 40px;
+  height: 40px;
   object-fit: cover;
   overflow: hidden;
 
